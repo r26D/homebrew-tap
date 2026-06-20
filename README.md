@@ -9,9 +9,9 @@ brew tap r26d/tap
 
 ## Available Packages
 
-| Name | Type | Description | Install |
-| ---- | ---- | ----------- | ------- |
-| workbench | cask | AI workbench | `brew install --cask r26d/tap/workbench` |
+| Name | Type | Version | Description | Install |
+| ---- | ---- | ------- | ----------- | ------- |
+| workbench | cask | 50.1 | AI workbench | `brew install --cask r26d/tap/workbench` |
 <!-- pigeon:end -->
 
 # License

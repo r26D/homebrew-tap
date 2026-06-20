@@ -11,7 +11,7 @@ brew tap r26D/tap
 
 | Name | Type | Version | Description | Install |
 | ---- | ---- | ------- | ----------- | ------- |
-| workbench | cask | 2026.6.7 | Desktop harness for AI driven software development | `brew install --cask r26D/tap/workbench` |
+| workbench | cask | 2026.6.8 | Desktop harness for AI driven software development | `brew install --cask r26D/tap/workbench` |
 
 ## Updates
 

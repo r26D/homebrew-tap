@@ -1,11 +1,17 @@
 <!-- pigeon:begin -->
-# r26D/homebrew-tap
+# r26d/homebrew-tap
 
 ## Install
 
 ```sh
-brew tap r26D/tap
+brew tap r26d/tap
 ```
+
+## Available Packages
+
+| Name | Type | Description | Install |
+| ---- | ---- | ----------- | ------- |
+| workbench | cask | AI workbench | `brew install --cask r26d/tap/workbench` |
 <!-- pigeon:end -->
 
 # License

@@ -1,12 +1,11 @@
 cask "workbench" do
-  version "2026.6.9"
-  sha256 "9fb0d9b74f792e0510bf4b1f0e53f5304d22ed64529242033f5b18c02f9d642a"
-  url "https://updates.r26d.dev/apps/workbench/releases/2026.6.9/macos/arm64/dmg/Workbench_2026.6.9_aarch64.dmg"
+  version "50.1"
+  sha256 "a93b94ffef56a7c5cd60bba382e95a01fec5e0a580b9a1d3f7e78f8a54b8432f"
+  url "https://updates.example.com/apps/workbench/releases/50.1/macos/arm64/dmg/workbench.dmg"
 
   name "Workbench"
-  desc "Desktop harness for AI driven software development"
-  homepage "https://workbench.r26d.dev"
+  desc "AI workbench"
+  homepage "https://workbench.r26d.com"
 
   app "Workbench.app"
-  auto_updates true
 end

@@ -1,17 +1,21 @@
 <!-- pigeon:begin -->
-# r26d/homebrew-tap
+# r26D/homebrew-tap
 
 ## Install
 
 ```sh
-brew tap r26d/tap
+brew tap r26D/tap
 ```
 
 ## Available Packages
 
 | Name | Type | Version | Description | Install |
 | ---- | ---- | ------- | ----------- | ------- |
-| workbench | cask | 50.1 | AI workbench | `brew install --cask r26d/tap/workbench` |
+| workbench | cask | 2026.7.1 | Desktop harness for AI driven software development | `brew install --cask r26D/tap/workbench` |
+
+## Updates
+
+Casks in this tap are bumped automatically by the source project's release workflow after each tagged release. The workbench cask declares `auto_updates true`, so the app's built-in Tauri updater handles in-place upgrades — `brew upgrade` only refreshes the cask version pointer.
 <!-- pigeon:end -->
 
 # License

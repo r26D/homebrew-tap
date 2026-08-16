@@ -12,6 +12,7 @@ brew tap r26D/tap
 | Name | Type | Version | Description | Install |
 | ---- | ---- | ------- | ----------- | ------- |
 | workbench | cask | 2026.8.15 | Desktop harness for AI driven software development | `brew install --cask r26D/tap/workbench` |
+| workbench-cli | formula | 2026.8.15 | Workbench command-line client | `brew install r26D/tap/workbench-cli` |
 
 ## Updates
 

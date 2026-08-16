@@ -1,17 +1,17 @@
 <!-- pigeon:begin -->
-# r26D/homebrew-tap
+# r26d/homebrew-tap
 
 ## Install
 
 ```sh
-brew tap r26D/tap
+brew tap r26d/tap
 ```
 
 ## Available Packages
 
 | Name | Type | Version | Description | Install |
 | ---- | ---- | ------- | ----------- | ------- |
-| workbench | cask | 2026.7.1 | Desktop harness for AI driven software development | `brew install --cask r26D/tap/workbench` |
+| workbench | cask | 2026.8.15 | Desktop harness for AI driven software development | `brew install --cask r26d/tap/workbench` |
 
 ## Updates
 

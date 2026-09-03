@@ -1,15 +1,15 @@
 class WorkbenchServer < Formula
   desc "Headless Workbench backend for remote access"
   homepage "https://workbench.r26d.dev"
-  version "2026.8.16"
+  version "2026.9.1"
   license "MIT"
 
   if Hardware::CPU.arm?
-    url "https://updates.r26d.dev/apps/workbench/releases/2026.8.16/macos/arm64/tarball/workbench-server-2026.8.15-macos-arm64.tar.gz"
-    sha256 "29f0b74dfe4f3c78132aff3c411399af83c56810f6fea54565b962f5f29239b4"
+    url "https://updates.r26d.dev/apps/workbench/releases/2026.9.1/macos/arm64/tarball/workbench-server-2026.9.1-macos-arm64.tar.gz"
+    sha256 "b7fcbe08664aface22abec91102529e2ea615863955f6e6f1fb6989e56c1c8ec"
   else
-    url "https://updates.r26d.dev/apps/workbench/releases/2026.8.16/macos/amd64/tarball/workbench-server-2026.8.15-macos-amd64.tar.gz"
-    sha256 "48cc8a52518cca2b541815b85eb6b317ede0be218477f87e6ca86eb2c6e1a353"
+    url "https://updates.r26d.dev/apps/workbench/releases/2026.9.1/macos/amd64/tarball/workbench-server-2026.9.1-macos-amd64.tar.gz"
+    sha256 "c11c7279c09932a7a940fddfb86e95698219402a20d58e5ff657702f0d4692e3"
   end
 
   depends_on "r26d/tap/workbench-cli"

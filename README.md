@@ -13,7 +13,7 @@ brew tap r26d/tap
 | ---- | ---- | ------- | ----------- | ------- |
 | workbench | cask | 2026.9.2 | Desktop harness for AI driven software development | `brew install --cask r26d/tap/workbench` |
 | workbench-cli | formula | 2026.9.2 | Workbench command-line client | `brew install r26d/tap/workbench-cli` |
-| workbench-server | formula | 2026.9.1 | Headless Workbench backend for remote access | `brew install r26d/tap/workbench-server` |
+| workbench-server | formula | 2026.9.2 | Headless Workbench backend for remote access | `brew install r26d/tap/workbench-server` |
 
 ## Updates
 

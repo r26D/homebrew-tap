@@ -1,15 +1,15 @@
 class WorkbenchCli < Formula
   desc "Workbench command-line client"
   homepage "https://workbench.r26d.dev"
-  version "2026.9.7"
+  version "2026.9.8"
   license "MIT"
 
   if Hardware::CPU.arm?
-    url "https://updates.r26d.dev/apps/workbench/releases/2026.9.7/macos/arm64/tarball/workbench-cli-2026.9.7-macos-arm64.tar.gz"
-    sha256 "ca766bc562b1da4176f94c27240e9a1e760987e2113ca0e2a781b87a3d2e52c7"
+    url "https://updates.r26d.dev/apps/workbench/releases/2026.9.8/macos/arm64/tarball/workbench-cli-2026.9.8-macos-arm64.tar.gz"
+    sha256 "b27a6110b4d2c57b13c00bfa257d86df235aa40638b442ebb5f3b0fdfcad106c"
   else
-    url "https://updates.r26d.dev/apps/workbench/releases/2026.9.7/macos/amd64/tarball/workbench-cli-2026.9.7-macos-amd64.tar.gz"
-    sha256 "30d60f61a419289f1d44c0c874ccc0f53648cfa8ee7815232f490931f08267ab"
+    url "https://updates.r26d.dev/apps/workbench/releases/2026.9.8/macos/amd64/tarball/workbench-cli-2026.9.8-macos-amd64.tar.gz"
+    sha256 "7a9fc0dd142a89a6bc28252d8a87429652493f5e380b1a0eb98727ee9d002dcf"
   end
 
   def install

@@ -1,7 +1,7 @@
 cask "workbench" do
-  version "2026.10.7"
-  sha256 "fb309b4d70702a8705044989f845d341a9c632fd6b6b610adf702ae7996106ed"
-  url "https://updates.r26d.dev/apps/workbench/releases/2026.10.7/macos/arm64/dmg/Workbench_2026.10.6_aarch64.dmg"
+  version "2026.10.8"
+  sha256 "7a58a0d4035952150a8d6f87b7f2910c0d356c6810485c6fa323d2047bb640f6"
+  url "https://updates.r26d.dev/apps/workbench/releases/2026.10.8/macos/arm64/dmg/Workbench_2026.10.8_aarch64.dmg"
 
   name "Workbench"
   desc "Desktop harness for AI driven software development"
